@@ -4,6 +4,8 @@
 
 主要是方便自己部署在自己的站点上，查阅起来方便。
 
+其中，buildDockerImg.sh 是构建 Docker 镜像的脚本。
+
 > 关于 VuePress 可以参照[官方文档](https://vuepress.vuejs.org/zh/)
 
 本站相对于原站：
